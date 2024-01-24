@@ -1,21 +1,5 @@
 # books
 
-## Artificial Intelligence
-
-- [Neural Networks - A Comprehensive Foundation](./Neural%20Networks%20-%20A%20Comprehensive%20Foundation.pdf).
-
-## Low Level
-
-- [Advanced Programming in the UNIX Environment](./Advanced%20Programming%20in%20the%20UNIX%20Environment.pdf).
-
-- [Architecture Instruction Set Extensions Programming Reference](./Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference.pdf).
-
-- [Low Level Programming](./Low%20Level%20Programming.pdf).
-
-- [Programming with POSIX Threads](./Programming%20with%20POSIX%20Threads.pdf).
-
-- [Using the FreeRTOS Real Time Kernel](./Using%20the%20FreeRTOS%20Real%20Time%20Kernel.pdf).
-
 ## Algorithms and Data Structures
 
 - [Algorithm Design](./Algorithm%20Design.pdf).
@@ -32,6 +16,15 @@
 
 - [The Design and Analysis of Computer Algorithms](./The%20Design%20and%20Analysis%20of%20Computer%20Algorithms.pdf).
 
+## Artificial Intelligence
+
+- [Neural Networks - A Comprehensive Foundation](./Neural%20Networks%20-%20A%20Comprehensive%20Foundation.pdf).
+
+## C
+
+- [Extreme C](./Extreme%20C.pdf).
+
+- [Modern C](./Modern%20C.pdf).
 
 ## Compilers/Interpreters
 
@@ -44,16 +37,6 @@
 - [Modern Compiler Implementation in C](./Modern%20Compiler%20Implementation%20in%20C.pdf).
 
 - [Writing an Interpreter in Go](./Writing%20an%20Interpreter%20in%20Go.pdf).
-
-## C
-
-- [Extreme C](./Extreme%20C.pdf).
-
-- [Modern C](./Modern%20C.pdf).
-
-## Go
-
-- [An Introduction to Programming in Go](./An%20Introduction%20to%20Programming%20in%20Go.pdf).
 
 ## Computer Science Theory
 
@@ -68,6 +51,22 @@
 - [Structure and Interpretation of Computer Programs](./Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf).
 
 - [Types and Programming Languages](./Types%20and%20Programming%20Languages.pdf).
+
+## Go
+
+- [An Introduction to Programming in Go](./An%20Introduction%20to%20Programming%20in%20Go.pdf).
+
+## Low Level
+
+- [Advanced Programming in the UNIX Environment](./Advanced%20Programming%20in%20the%20UNIX%20Environment.pdf).
+
+- [Architecture Instruction Set Extensions Programming Reference](./Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference.pdf).
+
+- [Low Level Programming](./Low%20Level%20Programming.pdf).
+
+- [Programming with POSIX Threads](./Programming%20with%20POSIX%20Threads.pdf).
+
+- [Using the FreeRTOS Real Time Kernel](./Using%20the%20FreeRTOS%20Real%20Time%20Kernel.pdf).
 
 ## OCaml
 
